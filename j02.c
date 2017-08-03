@@ -61,7 +61,6 @@ int		ft_is_lower_or_equal_than_42(int n) { return (n <= 42); }
 
 int		ft_is_minor(int age) { return (age < 18); }
 
-
 // && AND
 int		ft_is_able_to_join_42(int age) { return (age >= 18 && age <= 30); }
 int		ft_can_be_saved_in_a_char(int n) { return (n >= -128 && n <= 127); }
@@ -74,4 +73,85 @@ int		ft_is_beetween(int n, int a, int b) { return (n >= a && n <= b); }
 // ^  XOR
 
 int		ft_is_negative(int n) { return (n < 0); }
+
+// notions
+//
+//	- loops
+//	- loops + conditions
+//	- nested loops
+//
+
+void	ft_print_alphabet_but_n(void)
+{
+	char	c = 'A';
+
+	while (c <= 'Z')
+	{
+		if (c != 'N')
+			ft_putchar(c);
+		c++;
+	}
+	ft_putchar('\n');
+}
+
+void	ft_print_10_Q(void)
+{
+	int		i;
+
+	i = 0;
+	while (i < 10)
+	{
+		ft_putchar('Q');
+	}
+	ft_putchar('\n');
+}
+
+// in 1 function only
+void	ft_print_ten_alphabets(void)
+{
+	int		i;
+	char	c;
+
+	i = 0;
+	while (i < 10)
+	{
+		c = 'A';
+		while (c <= 'Z')
+		{
+			ft_putchar(c);
+			c++;
+		}
+		ft_putchar('\n');
+		i++;
+	}
+}
+
+void	ft_print_n_alphabets(int n)
+{
+	int		i;
+	char	c;
+
+	i = 0;
+	while (i < n)
+	{
+		c = 'A';
+		while (c <= 'Z')
+		{
+			ft_putchar(c);
+			c++;
+		}
+		ft_putchar('\n');
+		i++;
+	}
+}
+
+
+
+
+
+
+
+
+
+
 
