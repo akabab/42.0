@@ -1,4 +1,3 @@
-# 42.0
 ## types
 
 #### `int     ft_return_42(void)`
@@ -35,6 +34,11 @@ Write a function which takes 2 integers and returns the division
 Write a function which takes 2 integers and returns the modulo
 
 
+#### `int     plus_2(int n)`
+Write a function which takes an integer and returns its value plus 2
+
+#### `int     double(int n)`
+Write a function which takes an integer and returns its double
 
 ## comparison operators
 
@@ -60,3 +64,15 @@ Write a function which takes an integer as a parameter and returns 1 if it is st
 
 #### `int     ft_is_lower_than_or_equal_to_42(int n)`
 Write a function which takes an integer as a parameter and returns 1 if it is less than or equal to 42, otherwise returns 0
+
+
+## conditional chaining
+
+#### `int     ft_is_able_to_join_42(int age)`
+Write a function which takes an integer as a parameter and returns 1 if it is between 18 and 30 (both included), otherwise returns 0
+
+    parameters:
+        - age: an integer
+    returns:
+        - 1 if `age` is between 18 and 30 (both included)
+        - 0 otherwise
