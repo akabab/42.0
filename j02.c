@@ -61,6 +61,7 @@ int		ft_is_lower_or_equal_than_42(int n) { return (n <= 42); }
 
 int		ft_is_minor(int age) { return (age < 18); }
 
+
 // && AND
 int		ft_is_able_to_join_42(int age) { return (age >= 18 && age <= 30); }
 int		ft_can_be_saved_in_a_char(int n) { return (n >= -128 && n <= 127); }
