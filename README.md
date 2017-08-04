@@ -1,4 +1,4 @@
-# 42.0
+# 42+
 ### `additional exercices for piscine c days`
 
 The goal is to fill the gap between the exercises of the subjects with additional exercises to practice on
@@ -9,4 +9,9 @@ The goal is to fill the gap between the exercises of the subjects with additiona
 
 
 #### references
-- http://i.paysdu42.fr/ understanding about shell, C, editors (Vim, Emacs)
+- http://i.paysdu42.fr/ easy understanding (in french) about [shell](http://i.paysdu42.fr/?page=impatient-shell-debutant), [C](http://i.paysdu42.fr/?page=impatient-C), editors ([Vim](http://i.paysdu42.fr/?page=impatient-vim), [Emacs](http://i.paysdu42.fr/?page=impatient-emacs))
+- http://tldr.sh/ simplified man pages
+
+
+----
+will be updated..
