@@ -12,4 +12,12 @@ The goal is to fill the gap between the exercises of the subjects with additiona
 
 
 ----
+#### contact
+
+- any question/suggestion? -> [join discord 42.0 chan](https://discord.gg/TsQ26Jr)
+- troubleshooting, any other issue? -> [open an issue](https://github.com/akabab/42.0/issues)
+
+
+
+----
 will be updated..
