@@ -7,3 +7,6 @@ The goal is to fill the gap between the exercises of the subjects with additiona
 [[en](https://github.com/akabab/42.0/blob/master/j02.en.md)]
 [[fr](https://github.com/akabab/42.0/blob/master/j02.fr.md)]
 
+
+#### references
+- http://i.paysdu42.fr/ understanding about shell, C, editors (Vim, Emacs)
