@@ -5,8 +5,8 @@ Aim is to provide additional exercises to practice on
 
 #### exercices
 
-- #### j02+ [[fr](https://github.com/akabab/42.0/blob/master/j02.fr.md)]
-- #### j03+ (working on..)
+- **j02+** [[fr](https://github.com/akabab/42.0/blob/master/j02.fr.md)]
+- **j03+** (working on..)
 
 #### references
 - http://i.paysdu42.fr/ easy understanding (in french) about [shell](http://i.paysdu42.fr/?page=impatient-shell-debutant), [C](http://i.paysdu42.fr/?page=impatient-C), editors ([Vim](http://i.paysdu42.fr/?page=impatient-vim), [Emacs](http://i.paysdu42.fr/?page=impatient-emacs))
