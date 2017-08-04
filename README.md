@@ -1,4 +1,4 @@
-# 42+
+# 42.0
 ### `additional exercices for piscine c days`
 
 The goal is to fill the gap between the exercises of the subjects with additional exercises to practice on
