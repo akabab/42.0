@@ -5,7 +5,7 @@ Aim is to provide additional exercises to practice on
 
 #### exercices
 
-- **j02+** [[fr](https://github.com/akabab/42.0/blob/master/j02.fr.md)]
+- **j02+** [[fr](https://github.com/akabab/42.0/blob/master/j02/j02.fr.md)]
 - **j03+** (working on..)
 
 #### references
