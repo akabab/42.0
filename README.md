@@ -11,6 +11,7 @@ Aim is to provide additional exercises to practice on
 #### references
 - http://i.paysdu42.fr/ easy understanding (in french) about [shell](http://i.paysdu42.fr/?page=impatient-shell-debutant), [C](http://i.paysdu42.fr/?page=impatient-C), editors ([Vim](http://i.paysdu42.fr/?page=impatient-vim), [Emacs](http://i.paysdu42.fr/?page=impatient-emacs))
 - http://tldr.sh/ simplified man pages
+- http://c-faq.com/ Frequently Asked Questions about C
 
 ----
 #### contact
