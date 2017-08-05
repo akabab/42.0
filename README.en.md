@@ -1,7 +1,10 @@
 # 42.0
 ### `work out your piscine c days`
 
-Aim is to provide additional exercises to practice on
+Aim is to provide learning references as well as additional exercises
+
+[[fr](https://github.com/akabab/42.0/blob/master/README.fr.md)]
+[[en](https://github.com/akabab/42.0/blob/master/README.en.md)]
 
 #### exercices
 
