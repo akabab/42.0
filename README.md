@@ -3,7 +3,7 @@
 
 L'objectif est de fournir des références d'apprentissage ainsi que des exercices pratiques supplémentaires
 
-[[fr](https://github.com/akabab/42.0/blob/master/README.fr.md)]
+[[fr](https://github.com/akabab/42.0/blob/master/README.md)]
 [[en](https://github.com/akabab/42.0/blob/master/README.en.md)]
 
 #### exercices

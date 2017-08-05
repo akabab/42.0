@@ -3,7 +3,7 @@
 
 Aim is to provide learning references as well as additional exercises
 
-[[fr](https://github.com/akabab/42.0/blob/master/README.fr.md)]
+[[fr](https://github.com/akabab/42.0/blob/master/README.md)]
 [[en](https://github.com/akabab/42.0/blob/master/README.en.md)]
 
 #### exercices
