@@ -14,7 +14,7 @@ L'objectif est de fournir des références d'apprentissage ainsi que des exercic
 
 #### références
 - [paysdu42.fr](http://i.paysdu42.fr/) résumés des notions vues à 42 (en français) [[shell](http://i.paysdu42.fr/?page=impatient-shell-debutant), [C](http://i.paysdu42.fr/?page=impatient-C), editors ([Vim](http://i.paysdu42.fr/?page=impatient-vim), [Emacs](http://i.paysdu42.fr/?page=impatient-emacs))]
-- [tldr.sh](http://tldr.sh/) pages du man simplifiées
+- [tldr.sh](http://tldr.sh/) pages du man simplifiées -> [live demo](https://tldr.ostera.io/)
 - [c-faq.com](http://c-faq.com/) questions fréquentes (FAQ) sur le C (avancé)
 
 ----
