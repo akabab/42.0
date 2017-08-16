@@ -17,7 +17,7 @@ L'objectif est de fournir des références d'apprentissage ainsi que des exercic
 - [tldr.sh](http://tldr.sh/) pages du man simplifiées -> [live demo](https://tldr.ostera.io/)
 - [c-faq.com](http://c-faq.com/) questions fréquentes (FAQ) sur le C (avancé)
 - [c faq FR](http://www.usenet-fr.net/fur/comp/lang/faq-c-1.html) FAQ en FR
-- [clc-wiki](http://clc-wiki.net/wiki/Main_Page) C Wiki ([standard lib c](http://clc-wiki.net/wiki/C_standard_library), [tutoriels](http://clc-wiki.net/wiki/C_tutorial), [about language](http://clc-wiki.net/wiki/C_language), ...)
+- [clc-wiki](http://clc-wiki.net/wiki/Main_Page) C Wiki ([standard lib c](http://clc-wiki.net/wiki/C_standard_library), [tutoriels](http://clc-wiki.net/wiki/C_tutorial), [language](http://clc-wiki.net/wiki/C_language), ...)
 
 ----
 #### contact
